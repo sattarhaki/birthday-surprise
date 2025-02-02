@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سوپرایز تولد!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            padding: 50px;
+        }
+        h1 {
+            color: #d63384;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .balloon {
+            font-size: 2em;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>سوپرایز! 🎉</h1>
+    <p>رفیق عزیزم، تولدت مبارک! 🎂</p>
+    <p>امیدوارم همیشه شاد و موفق باشی! 💖</p>
+    <div class="balloon">🎈🎈🎈</div>
+</body>
+</html>
